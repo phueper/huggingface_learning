@@ -2,5 +2,4 @@ stable-baselines3==2.0.0a5
 # do NOT install swig via pip, seems it must be installed by apt in colab-runtime?
 # swig
 gymnasium[box2d]
-box2d
 huggingface_sb3
